@@ -1,3 +1,2 @@
-server:
-  port: 4433
-profile: test
+config:
+  info: "master branch,cloud-config/config-test.yml version=1"
